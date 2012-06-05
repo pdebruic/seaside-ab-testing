@@ -1,0 +1,15 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pointCollection",
+		"degreePlusOne" ],
+	"name" : "DhbPolynomialLeastSquareFit",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

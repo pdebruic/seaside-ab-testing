@@ -1,0 +1,16 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dataServer",
+		"dataSetSize",
+		"minimumRelativeClusterSize" ],
+	"name" : "DhbClusterFinder",
+	"pools" : [
+		 ],
+	"super" : "DhbIterativeProcess",
+	"type" : "normal" }

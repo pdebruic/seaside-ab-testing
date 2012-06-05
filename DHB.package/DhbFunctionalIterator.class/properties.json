@@ -1,0 +1,15 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"functionBlock",
+		"relativePrecision" ],
+	"name" : "DhbFunctionalIterator",
+	"pools" : [
+		 ],
+	"super" : "DhbIterativeProcess",
+	"type" : "normal" }

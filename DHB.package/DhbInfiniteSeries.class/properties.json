@@ -1,0 +1,14 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"termServer" ],
+	"name" : "DhbInfiniteSeries",
+	"pools" : [
+		 ],
+	"super" : "DhbIterativeProcess",
+	"type" : "normal" }

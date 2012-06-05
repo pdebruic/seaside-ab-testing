@@ -1,0 +1,3 @@
+accessing
+aNo
+	^ aNo

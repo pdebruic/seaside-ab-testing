@@ -1,0 +1,17 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"xValue",
+		"yValue",
+		"weight",
+		"error" ],
+	"name" : "DhbWeightedPoint",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

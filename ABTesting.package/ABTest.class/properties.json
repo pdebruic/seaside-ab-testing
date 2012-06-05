@@ -1,0 +1,30 @@
+{
+	"category" : "ABTesting",
+	"classinstvars" : [
+		"tests",
+		"users" ],
+	"classvars" : [
+		"DesiredConfidenceLevel" ],
+	"commentStamp" : "PaulDeBruicker 3/31/2010 18:16",
+	"instvars" : [
+		"testName",
+		"goal",
+		"description",
+		"startDate",
+		"winner",
+		"endDate",
+		"a",
+		"b",
+		"aYes",
+		"aViews",
+		"bViews",
+		"bYes",
+		"aConverts",
+		"bConverts",
+		"enoughResults",
+		"highConfidence" ],
+	"name" : "ABTest",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

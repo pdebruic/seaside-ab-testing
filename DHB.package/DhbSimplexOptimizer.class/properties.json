@@ -1,0 +1,14 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"worstVector" ],
+	"name" : "DhbSimplexOptimizer",
+	"pools" : [
+		 ],
+	"super" : "DhbFunctionOptimizer",
+	"type" : "normal" }

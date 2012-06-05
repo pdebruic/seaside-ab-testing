@@ -1,0 +1,17 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"UniqueInstance" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"constant",
+		"modulus",
+		"multiplicator",
+		"seed" ],
+	"name" : "DhbCongruentialRandomNumberGenerator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

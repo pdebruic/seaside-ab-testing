@@ -1,0 +1,14 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"center" ],
+	"name" : "DhbEuclideanCluster",
+	"pools" : [
+		 ],
+	"super" : "DhbCluster",
+	"type" : "normal" }

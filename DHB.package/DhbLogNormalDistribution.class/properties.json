@@ -1,0 +1,14 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"normalDistribution" ],
+	"name" : "DhbLogNormalDistribution",
+	"pools" : [
+		 ],
+	"super" : "DhbProbabilityDensityWithUnknownDistribution",
+	"type" : "normal" }

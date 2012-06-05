@@ -1,0 +1,22 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sum1",
+		"sumX",
+		"sumY",
+		"sumXX",
+		"sumYY",
+		"sumXY",
+		"slope",
+		"intercept",
+		"correlationCoefficient" ],
+	"name" : "DhbLinearRegression",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

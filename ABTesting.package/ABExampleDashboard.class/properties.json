@@ -1,0 +1,15 @@
+{
+	"category" : "ABTesting-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PaulDeBruicker 3/31/2010 18:16",
+	"instvars" : [
+		"tests",
+		"testTable" ],
+	"name" : "ABExampleDashboard",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

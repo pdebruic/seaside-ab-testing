@@ -1,0 +1,17 @@
+{
+	"category" : "ABTesting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PaulDeBruicker 3/31/2010 12:11",
+	"instvars" : [
+		"aYes",
+		"bYes",
+		"aNo",
+		"bNo" ],
+	"name" : "ABGTest",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

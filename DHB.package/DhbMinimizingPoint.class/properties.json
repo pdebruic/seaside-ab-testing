@@ -1,0 +1,15 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value",
+		"position" ],
+	"name" : "DhbMinimizingPoint",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"alpha" ],
+	"name" : "DhbIncompleteGammaFractionTermServer",
+	"pools" : [
+		 ],
+	"super" : "DhbSeriesTermServer",
+	"type" : "normal" }

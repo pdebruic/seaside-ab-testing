@@ -1,0 +1,1 @@
+This is just a User class for testing the AB Testing package.  

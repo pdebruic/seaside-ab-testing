@@ -1,0 +1,18 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"precision",
+		"desiredPrecision",
+		"maximumIterations",
+		"result",
+		"iterations" ],
+	"name" : "DhbIterativeProcess",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

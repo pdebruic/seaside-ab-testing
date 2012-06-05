@@ -1,0 +1,15 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"accumulator",
+		"previousSampleSize" ],
+	"name" : "DhbCluster",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

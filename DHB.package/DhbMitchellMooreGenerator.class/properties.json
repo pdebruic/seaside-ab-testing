@@ -1,0 +1,16 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"UniqueInstance" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"randoms",
+		"lowIndex",
+		"highIndex" ],
+	"name" : "DhbMitchellMooreGenerator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

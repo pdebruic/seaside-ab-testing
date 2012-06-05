@@ -1,0 +1,15 @@
+{
+	"category" : "ABTesting-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"user",
+		"dashboard" ],
+	"name" : "ABExampleComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfABTesting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfABTesting",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rows",
+		"lupDecomposition" ],
+	"name" : "DhbMatrix",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

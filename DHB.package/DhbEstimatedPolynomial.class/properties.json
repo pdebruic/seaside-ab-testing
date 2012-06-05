@@ -1,0 +1,14 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"errorMatrix" ],
+	"name" : "DhbEstimatedPolynomial",
+	"pools" : [
+		 ],
+	"super" : "DhbPolynomial",
+	"type" : "normal" }

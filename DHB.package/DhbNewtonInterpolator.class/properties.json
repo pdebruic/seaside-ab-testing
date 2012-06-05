@@ -1,0 +1,14 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"coefficients" ],
+	"name" : "DhbNewtonInterpolator",
+	"pools" : [
+		 ],
+	"super" : "DhbLagrangeInterpolator",
+	"type" : "normal" }

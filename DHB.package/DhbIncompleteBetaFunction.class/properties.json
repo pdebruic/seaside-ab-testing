@@ -1,0 +1,18 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"alpha1",
+		"alpha2",
+		"fraction",
+		"inverseFraction",
+		"logNorm" ],
+	"name" : "DhbIncompleteBetaFunction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

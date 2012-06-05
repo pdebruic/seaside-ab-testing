@@ -1,0 +1,16 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"matrix",
+		"eigenvector",
+		"transposeEigenvector" ],
+	"name" : "DhbLargestEigenValueFinder",
+	"pools" : [
+		 ],
+	"super" : "DhbIterativeProcess",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "DHB-Numerical",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Digits" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mantissa",
+		"exponent" ],
+	"name" : "DhbDecimalFloatingNumber",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
